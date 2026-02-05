@@ -2,7 +2,7 @@ AI Operations Assistant
 
 An AI-powered operations assistant that utilizes a multi-agent architecture to process natural language tasks, plan execution steps, call external APIs, and verify results. This project was developed for the 24-Hour GenAI Intern Assignment.
 
-🚀 Core Capabilities
+Core Capabilities
 
 Multi-Agent Architecture: Dedicated Planner, Executor, and Verifier.
 
